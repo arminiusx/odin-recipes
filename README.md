@@ -1,0 +1,1 @@
+Just an amateur that is working on the Odin Project.
